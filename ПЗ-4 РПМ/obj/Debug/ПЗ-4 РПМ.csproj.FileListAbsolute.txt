@@ -1,0 +1,7 @@
+D:\Projects\ПЗ-4 РПМ\bin\Debug\ПЗ-4 РПМ.exe.config
+D:\Projects\ПЗ-4 РПМ\bin\Debug\ПЗ-4 РПМ.exe
+D:\Projects\ПЗ-4 РПМ\bin\Debug\ПЗ-4 РПМ.pdb
+D:\Projects\ПЗ-4 РПМ\obj\Debug\ПЗ-4 РПМ.csproj.AssemblyReference.cache
+D:\Projects\ПЗ-4 РПМ\obj\Debug\ПЗ-4 РПМ.csproj.CoreCompileInputs.cache
+D:\Projects\ПЗ-4 РПМ\obj\Debug\ПЗ-4 РПМ.exe
+D:\Projects\ПЗ-4 РПМ\obj\Debug\ПЗ-4 РПМ.pdb
