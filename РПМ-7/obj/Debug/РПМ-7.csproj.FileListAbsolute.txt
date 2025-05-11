@@ -1,0 +1,7 @@
+D:\Projects\РПМ-7\bin\Debug\РПМ-7.exe.config
+D:\Projects\РПМ-7\bin\Debug\РПМ-7.exe
+D:\Projects\РПМ-7\bin\Debug\РПМ-7.pdb
+D:\Projects\РПМ-7\obj\Debug\РПМ-7.csproj.AssemblyReference.cache
+D:\Projects\РПМ-7\obj\Debug\РПМ-7.csproj.CoreCompileInputs.cache
+D:\Projects\РПМ-7\obj\Debug\РПМ-7.exe
+D:\Projects\РПМ-7\obj\Debug\РПМ-7.pdb
