@@ -1,7 +1,0 @@
-D:\Projects\ПЗ6РПМ\bin\Debug\ПЗ6РПМ.exe.config
-D:\Projects\ПЗ6РПМ\bin\Debug\ПЗ6РПМ.exe
-D:\Projects\ПЗ6РПМ\bin\Debug\ПЗ6РПМ.pdb
-D:\Projects\ПЗ6РПМ\obj\Debug\ПЗ6РПМ.csproj.AssemblyReference.cache
-D:\Projects\ПЗ6РПМ\obj\Debug\ПЗ6РПМ.csproj.CoreCompileInputs.cache
-D:\Projects\ПЗ6РПМ\obj\Debug\ПЗ6РПМ.exe
-D:\Projects\ПЗ6РПМ\obj\Debug\ПЗ6РПМ.pdb
