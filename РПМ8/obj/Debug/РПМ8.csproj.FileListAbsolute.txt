@@ -1,0 +1,7 @@
+D:\Projects\РПМ8\bin\Debug\РПМ8.exe.config
+D:\Projects\РПМ8\bin\Debug\РПМ8.exe
+D:\Projects\РПМ8\bin\Debug\РПМ8.pdb
+D:\Projects\РПМ8\obj\Debug\РПМ8.csproj.AssemblyReference.cache
+D:\Projects\РПМ8\obj\Debug\РПМ8.csproj.CoreCompileInputs.cache
+D:\Projects\РПМ8\obj\Debug\РПМ8.exe
+D:\Projects\РПМ8\obj\Debug\РПМ8.pdb
